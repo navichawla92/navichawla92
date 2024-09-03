@@ -23,8 +23,7 @@ I adapt well to different organizational formats and thrive in team environments
 
 ### 📫 How to Reach Me
 - Email: [navichawla92@gmail.com](mailto:navichawla92@gmail.com)
-- LinkedIn: [Navjot Singh]((https://www.linkedin.com/in/navjot-singh-137b1797/))
-- 
+- LinkedIn: [Navjot Singh](https://www.linkedin.com/in/navjot-singh-137b1797/)
 ---
 
 I'm excited to collaborate on new projects and bring innovative ideas to life. Let's create something amazing together!
