@@ -12,10 +12,10 @@ I adapt well to different organizational formats and thrive in team environments
 
 ### 🛠️ My Skill Set
 
-- **Backend Development**: Node.js, Express, PHP, Laravel, Lumen
-- **Frontend Development**: JavaScript, React.js, Next.js, AngularJS, jQuery, Ajax
+- **Backend Development**: Node.js, Express, PHP, Laravel, Lumen, Golang
+- **Frontend Development**: JavaScript, React.js, Next.js, jQuery, Ajax
 - **Databases**: Firebase, MySQL, PostgreSQL, MongoDB
-- **Web Design**: HTML5, CSS3, SASS, Bootstrap, Material
+- **Web Design**: HTML5, CSS3, SASS, Bootstrap, Material, ANTD
 - **Content Management Systems**: WordPress, WooCommerce, eCommerce platforms, Shopify
 - **API Integration**
 - **Payment Gateway Integration**
