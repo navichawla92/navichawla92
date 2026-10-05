@@ -2,10 +2,10 @@
 
 ### 🚀 Senior Full Stack Developer | React.js | Next.js | Node.js | PHP | Laravel
 
-🏆 **22+ Successful Projects on Upwork**
-🏆 **7,000+ Upwork Hours**
-🏅 **9+ Years of Professional Web Development Experience**
-🏅 **100% Job Success**
+🏆 **22+ Successful Projects on Upwork**<br>
+🏆 **7,000+ Upwork Hours**<br>
+🏅 **9+ Years of Professional Web Development Experience**<br>
+🏅 **100% Job Success**<br>
 🥇 **Building Scalable Web Applications, SaaS Platforms & REST APIs**
 
 I’m a **Senior Full Stack Web Developer** and **IT Engineer (B.Tech)** with 9+ years of experience building modern, scalable, and high-performance web applications.
